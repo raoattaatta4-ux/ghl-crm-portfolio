@@ -11,7 +11,7 @@ Practical demonstrations of lead capture, CRM workflow planning and reusable web
 
 ## Run the web demos
 Download this repository and open either HTML file in a browser. There is no build step and no external dependency.
-GitHub file links display source code; these demos are not deployed websites.
+GitHub file links display source code. Try the [live portfolio demos](https://atta-ghl-portfolio.raoattaatta4.chatgpt.site).
 
 Optional local server from the repository folder:
 ```bash
