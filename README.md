@@ -1,6 +1,21 @@
 # GHL & CRM Portfolio
 ### Atta Ur Rehman · CRM automation and responsive web development
 
+[View the live professional portfolio](https://atta-ghl-portfolio.raoattaatta4.chatgpt.site)
+
+## Selected client work
+
+| Project | Platform | Contribution |
+| --- | --- | --- |
+| [KidsKonnectUkraine](https://kidskonnectukraine.org/) | WordPress / Elementor | Navigation, mega-menu structure and page presentation |
+| MMY Flooring | GoHighLevel Store | Catalogs, product pages, specifications, responsive layouts and collection linking |
+| Texas Made Living | GoHighLevel CRM | Rooms custom object, resident/referral journeys and automation planning |
+| Loanology Lending | GoHighLevel funnels | Webinar registration, confirmation, CRM mapping and follow-up journey |
+
+These are project contribution summaries. Client source code and account data are not included.
+
+## Public demo projects
+
 Practical demonstrations of lead capture, CRM workflow planning and reusable website components.
 
 | Project | What it demonstrates | Files |
